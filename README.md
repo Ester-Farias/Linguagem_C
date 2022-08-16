@@ -1,24 +1,15 @@
 # Linguagem_C
-Exercício em linguagem C proposto no primeiro semestre da faculdade de Engenharia de Software | C language | Software Engineering
-
-[Exercicio 1](Exercicio-numero-um)
-[Exercicio 2](Exercicio-numero-dois)
-[Exercicio 3](Exercicio-numero-tres)
-[Exercicio 4](Exercicio-numero-quatro)
-[Exercicio 5](Exercicio-numero-cinco)
+Exercício em linguagem C proposto no primeiro semestre da faculdade de Engenharia de Software | C language | Software Engineerin
 
 
 
-
-
-##Exercicio-numero-um
+##Exercício número um:
 <p>Exercício em C: Criar seu primeiro programa usando o comando printf</p>
 
-##Exercicio-numero-dois
+##Exercício número dois:
 
-##Exercicio-numero-tres
+##Exercício número três:
 
+##Exercício número quatro:
 
-##Exercicio-numero-quatro
-
-##Exercicio-numero-cinco
+##Exercício número cinco:
