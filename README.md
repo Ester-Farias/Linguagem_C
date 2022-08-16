@@ -1,11 +1,11 @@
 # Linguagem_C
 Exercício em linguagem C proposto no primeiro semestre da faculdade de Engenharia de Software | C language | Software Engineering
 
-[Exercicio 1](#Exercício-número-um:)
-[Exercicio 1](#Exercício-número-dois:)
-[Exercicio 1](#Exercício-número-três:)
-[Exercicio 1](#Exercício-número-quatro:)
-[Exercicio 1](#Exercício-número-cinco:)
+[Exercicio 1](#Exercicio-numero-um:)
+[Exercicio 1](#Exercicio-numero-dois:)
+[Exercicio 1](#Exercicio-numero-tres:)
+[Exercicio 1](#Exercicio-numero-quatro:)
+[Exercicio 1](#Exercicio-numero-cinco:)
 
 
 
@@ -34,13 +34,13 @@ Exercício em linguagem C proposto no primeiro semestre da faculdade de Engenhar
 
 
 
-#Exercício-número-um:
+#Exercicio-numero-um:
 <p></p>
 
-#Exercício-número-dois:
+#Exercicio-numero-dois:
 
-#Exercício-número-três:
+#Exercicio-numero-tres:
 
-#Exercício-número-quatro:
+#Exercicio-numero-quatro:
 
-#Exercício-número-cinco:
+#Exercicio-numero-cinco:
