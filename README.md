@@ -1,7 +1,6 @@
 # Linguagem_C
 Exercício em linguagem C proposto no primeiro semestre da faculdade de Engenharia de Software | C language | Software Engineerin
-
-
+<br>
 
 <h3>Exercício número um:</h3>
 <p>Exercício em C: Criar seu primeiro programa usando o comando printf</p>
