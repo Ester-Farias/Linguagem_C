@@ -23,3 +23,6 @@ Exercício em linguagem C proposto no primeiro semestre da faculdade de Engenhar
 <p>Exercício em C: Criar  um programa que solicita um número para o úsuario, calcula o quadrado desse número e retorna o resultado.</p>
 <br>
 
+<h3>Exercício número seis:</h3>
+<p>Exercício em C: Criar  um programa que calcule o IMC, com base na sua altura e peso.</p>
+<br>
