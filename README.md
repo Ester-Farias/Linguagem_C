@@ -19,3 +19,7 @@ Exercício em linguagem C proposto no primeiro semestre da faculdade de Engenhar
 <p>Exercício em C: Criar  um programa em que informe se um casal possue verba para a viagem internacional (>=10000) ou nacional (<10000)</p>
 <br>
 
+<h3>Exercício número quatro:</h3>
+<p>Exercício em C: Criar  um programa que solicita um número para o úsuario, calcula o quadrado desse número e retorna o resultado.</p>
+<br>
+
