@@ -20,7 +20,7 @@ Exercício em linguagem C proposto no primeiro semestre da faculdade de Engenhar
 <br>
 
 <h3>Exercício número cinco:</h3>
-<p>Exercício em C: Criar  um programa que solicita um número para o úsuario, calcula o quadrado desse número e retorna o resultado.</p>
+<p>Exercício em C: Criar  um programa que solicita um número para o usuário, calcula o quadrado desse número e retorna o resultado.</p>
 <br>
 
 <h3>Exercício número seis:</h3>
@@ -28,5 +28,9 @@ Exercício em linguagem C proposto no primeiro semestre da faculdade de Engenhar
 <br>
 
 <h3>Exercício número sete:</h3>
-<p>Exercício em C: Criar  um programa que calcule a médiade duas temperaturas.  Usando variáveis de escopo global.</p>
+<p>Exercício em C: Criar  um programa que calcule a média de duas temperaturas.  Usando variáveis de escopo global.</p>
+<br>
+
+<h3>Exercício número oito:</h3>
+<p>Exercício em C: Criar  um programa de passagem de parâmetros para uma função.</p>
 <br>
