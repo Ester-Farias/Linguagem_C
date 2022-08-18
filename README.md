@@ -26,3 +26,7 @@ Exercício em linguagem C proposto no primeiro semestre da faculdade de Engenhar
 <h3>Exercício número seis:</h3>
 <p>Exercício em C: Criar  um programa que calcule o IMC, com base na sua altura e peso.</p>
 <br>
+
+<h3>Exercício número sete:</h3>
+<p>Exercício em C: Criar  um programa que calcule a médiade duas temperaturas.  Usando variáveis de escopo global.</p>
+<br>
