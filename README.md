@@ -28,5 +28,9 @@ Exercício em linguagem C proposto no primeiro semestre da faculdade de Engenhar
 <br>
 
 <h3>Exercício número sete:</h3>
+<p>Exercício em C: Criar  um programa de passagem de parâmetros para uma função.</p>
+<br>
+
+<h3>Exercício número sete:</h3>
 <p>Exercício em C: Criar  um programa que calcule a médiade duas temperaturas.  Usando variáveis de escopo global.</p>
 <br>
