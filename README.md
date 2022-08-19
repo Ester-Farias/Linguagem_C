@@ -34,3 +34,7 @@ Exercício em linguagem C proposto no primeiro semestre da faculdade de Engenhar
 <h3>Exercício número oito:</h3>
 <p>Exercício em C: Criar  um programa de passagem de parâmetros para uma função.</p>
 <br>
+
+<h3>Exercício número nove:</h3>
+<p>Exercício em C: Criar  um programa de implementação de função recursiva para soma.</p>
+<br>
