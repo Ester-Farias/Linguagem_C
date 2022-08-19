@@ -38,3 +38,7 @@ Exercício em linguagem C proposto no primeiro semestre da faculdade de Engenhar
 <h3>Exercício número nove:</h3>
 <p>Exercício em C: Criar  um programa de implementação de função recursiva para soma.</p>
 <br>
+
+<h3>Exercício número dez:</h3>
+<p></p>
+<br>
